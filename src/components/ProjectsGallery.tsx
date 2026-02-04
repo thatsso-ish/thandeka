@@ -1,7 +1,7 @@
 
 import { motion } from 'framer-motion';
 import { projects } from '../data/portfolio';
-import { ExternalLink, Github, ArrowRight } from 'lucide-react';
+import { ExternalLink, Github } from 'lucide-react';
 
 const ProjectsGallery = () => {
     return (
