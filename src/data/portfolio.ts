@@ -37,33 +37,23 @@ export const projects: Project[] = [
     },
     {
         id: '2',
-        title: 'Agricultural AI Prototype',
-        description: 'A model to assist farmers in crop disease detection and yield prediction using computer vision.',
-        tech: ['Python', 'TensorFlow', 'Data Analytics'],
-        category: 'AI',
-        image: '/agriculture.png',
-        repo: 'https://github.com/ThandekaMbokazi/Aiagriculturesolutionprototype',
-        link: 'https://nova-coin-33465230.figma.site/'
+        title: 'LegalEase',
+        description: 'An AI-powered legal assistant that leverages Google\'s Gemini models to simplify complex legal documents and make legal understanding accessible.',
+        tech: ['React', 'Google Gemini', 'TypeScript'],
+        category: 'Legal AI',
+        image: '/legalease.png',
+        repo: 'https://github.com/ThandekaMbokazi/LegalEase1',
+        link: 'https://legal-ease-seven.vercel.app/'
     },
     {
         id: '3',
-        title: 'Specialized Content Generation Tool',
-        description: 'A generative AI tool for creating tailored marketing and educational content.',
-        tech: ['Generative AI', 'TypeScript', 'API Integration'],
-        category: 'GenAI',
-        image: '/legalease.png',
-        repo: 'https://github.com/ThandekaMbokazi/LegalEase1',
-        link: 'https://legal-ease1-pi.vercel.app/'
-    },
-    {
-        id: '4',
         title: 'AI Resume Builder',
         description: 'Automates resume creation by analyzing user inputs and formatting them for ATS compliance.',
         tech: ['React', 'Node.js', 'OpenAI API'],
         category: 'Web App',
-        image: '',
+        image: '/resume.png',
         repo: 'https://github.com/ThandekaMbokazi/Ai-Resume-Builder',
-        link: ''
+        link: 'https://gentle-creation-base.lovable.app '
     }
 ];
 
